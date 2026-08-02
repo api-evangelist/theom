@@ -1,0 +1,26 @@
+# Theom
+
+> Theom is a cloud Data & AI Operations Center that governs and secures enterprise data estates — providing automated data security, compliance, and safe generative-AI data activation across multi-cloud environments. Theom detects active data breaches, maps real-time data lineage, and enforces data-usage policy. Theom does not publish a public developer API, SDKs, or API documentation; it is delivered as an enterprise platform via demo/contact-sales.
+
+## Overview
+- Founded: December 2020 by ex-Cisco/Google/Yahoo security practitioners (creators of Tetration Analytics).
+- Product pillars: Theom Core (automated data security + lineage + policy), Theom AI (GenAI data activation + leak prevention), Theom Trust (real-time data contracts).
+- Backed by Wing Venture Capital, Ridge Ventures, Snowflake Ventures, Databricks Ventures, SentinelOne Ventures, and M12 (Microsoft).
+- Recognized as a Leader in the 2026 Forrester Wave for Sensitive Data Discovery and Classification, and a Leader/Outperformer by GigaOm.
+
+## Company
+- Website: https://www.theom.ai/
+- Company: https://www.theom.ai/company
+- Integrations (40+ platforms incl. Snowflake, Databricks, AWS, Azure, Okta, ServiceNow, Splunk): https://www.theom.ai/integrations
+- Pricing (contact-sales): https://www.theom.ai/pricing
+- Blog: https://www.theom.ai/blog
+- Careers: https://www.theom.ai/careers
+- Request a demo: https://www.theom.ai/request-a-demo
+
+## Legal
+- Terms of Service: https://www.theom.ai/terms-of-service
+- Privacy Policy: https://www.theom.ai/privacy-policy
+
+## Notes
+- No public API, SDK, OpenAPI spec, MCP server, or /.well-known/ discovery surface was found (all probed 404) as of 2026-07-21.
+- APIs.json profile: https://raw.githubusercontent.com/api-evangelist/theom/refs/heads/main/apis.yml

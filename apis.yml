@@ -1,7 +1,28 @@
 aid: theom
 name: Theom
-description: Theom is a company surfaced as a portfolio company of wing-venture-capital and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Theom is a cloud Data & AI Operations Center that governs and secures enterprise data estates,
+  providing automated data security, compliance, and safe generative-AI data activation across
+  multi-cloud environments. Founded in December 2020 by former Cisco, Google, and Yahoo security
+  practitioners (creators of Tetration Analytics), Theom detects active data breaches, maps real-time
+  data lineage, analyzes identity-aware data usage and insider threats, and enforces data-usage policy
+  agentlessly. Its product spans Theom Core (data security and lineage), Theom AI (GenAI leak
+  prevention), and Theom Trust (real-time data contracts). Theom is backed by Wing Venture Capital,
+  Ridge Ventures, Snowflake Ventures, Databricks Ventures, SentinelOne Ventures, and M12, and was
+  named a Leader in the 2026 Forrester Wave for Sensitive Data Discovery and Classification. Theom is
+  delivered as an enterprise platform; it does not publish a public developer API, SDKs, or API docs.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/6821231191ad22b28df21ebb/6821231191ad22b28df21f14_small_theom-favicon.png
 url: https://raw.githubusercontent.com/api-evangelist/theom/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +32,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Data Security
+- Data Governance
+- Compliance
+- DSPM
+- Artificial Intelligence
+- Cloud Security
+- Data Privacy
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +51,20 @@ maintainers:
 common:
 - type: Website
   url: https://www.theom.ai/
+- type: Blog
+  url: https://www.theom.ai/blog
+- type: Pricing
+  url: https://www.theom.ai/pricing
+- type: TermsOfService
+  url: https://www.theom.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.theom.ai/privacy-policy
+- type: DomainSecurity
+  url: security/theom-domain-security.yml
+- type: LLMsTxt
+  url: llms/theom-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
