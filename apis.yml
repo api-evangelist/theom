@@ -11,6 +11,17 @@ description: >-
   Ridge Ventures, Snowflake Ventures, Databricks Ventures, SentinelOne Ventures, and M12, and was
   named a Leader in the 2026 Forrester Wave for Sensitive Data Discovery and Classification. Theom is
   delivered as an enterprise platform; it does not publish a public developer API, SDKs, or API docs.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
